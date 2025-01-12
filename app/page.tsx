@@ -1,5 +1,4 @@
 import { BlogPosts } from 'app/components/posts'
-<a rel="me" href="https://hachyderm.io/@imcharlie">Mastodon</a>
 
 export default function Page() {
   return (
