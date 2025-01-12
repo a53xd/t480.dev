@@ -7,8 +7,8 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  'about://blank': {
-    name: 'bluesky',
+  'https://bsky.app/profile/t480.dev': {
+    name: 'bsky',
   },
 }
 
