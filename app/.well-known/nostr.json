@@ -1,0 +1,10 @@
+{
+    "names": {
+      "YOUR_NOSTR_NAME": "4e4d1f6a0fa2b420171dd9bae9c2e6f7220cf6a8bef49b87a710f7bea9b73e85"
+    },
+    "relays": {
+      "YOUR_NOSTR_PUBLIC_KEY_IN_HEX_FORMAT": [
+        "wss://relay.primal.net"
+      ]
+    }
+  }
