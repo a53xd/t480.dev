@@ -7,8 +7,8 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  'https://bsky.app/profile/t480.dev': {
-    name: 'bsky',
+  'https://read.cv/shrk': {
+    name: 'read.cv',
   },
 }
 
