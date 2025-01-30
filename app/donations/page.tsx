@@ -16,7 +16,7 @@ export default function Page() {
       <p className="mb-4">
         {`second, my monero address:`}
       </p>
-      <pre className="bg-gray-100 p-4 rounded">
+      <pre>
         <code>
           {`49XVAsnVEyNdX4P73uzuEcioy4wAUmKUD6NbMgG3dGoYZEVjiMmBRoq6QnQdpcWmNgFpQLbniK7BU1weNB3DGL6S9nysDjd`}
         </code>
