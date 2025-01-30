@@ -15,16 +15,13 @@ export default function Page() {
           </a>
         </p>
         <p className="mb-4">
-          {`second, my monero address:`}
+          {`secondly, my monero address:`}
         </p>
         <pre>
           <code>
             {`49XVAsnVEyNdX4P73uzuEcioy4wAUmKUD6NbMgG3dGoYZEVjiMmBRoq6QnQdpcWmNgFpQLbniK7BU1weNB3DGL6S9nysDjd`}
           </code>
         </pre>
-        <p className="mb-4">
-          {`third, my EVM address:  0xeE67197329F8Aa4dD30250aeB369DA0Dec5E30E9`}
-        </p>
       </section>
       <div className="my-8">
       </div>
