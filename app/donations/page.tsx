@@ -10,7 +10,7 @@ export default function Page() {
       <p className="mb-4">
         {`first, my ko-fi: `}
         <a href="https://ko-fi.com/chardev" target="_blank" rel="noopener noreferrer">
-          https://ko-fi.com/chardev
+          click me!
         </a>
       </p>
       <p className="mb-4">
