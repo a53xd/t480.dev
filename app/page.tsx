@@ -14,7 +14,6 @@ I'm also the owner of the Mosaic Foundation, which is a foundation trying to rec
         <a href="https://t480.dev/donations" target="_blank" rel="noopener noreferrer">
           If you want, you can send me some monero, or buy me a coffee.
         </a>
-      </p>
       <div className="my-8">
         <BlogPosts />
       </div>
