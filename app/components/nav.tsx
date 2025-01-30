@@ -8,7 +8,10 @@ const navItems = {
     name: 'blog',
   },
   'https://read.cv/shrk': {
-    name: 'read.cv',
+    name: 'resume',
+  },
+    'https://hackerone.com/a53xd': {
+    name: 'h1',
   },
 }
 
