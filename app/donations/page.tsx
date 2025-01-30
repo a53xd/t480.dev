@@ -25,11 +25,13 @@ export default function Page() {
         <p className="mb-4">
           {`third, my EVM address:`}
         </p>
-        <pre>
-          <code>
-            {`0xeE67197329F8Aa4dD30250aeB369DA0Dec5E30E9`}
-          </code>
-        </pre>
+        <div>
+          <pre>
+            <code>
+              {`0xeE67197329F8Aa4dD30250aeB369DA0Dec5E30E9`}
+            </code>
+          </pre>
+        </div>
         <div className="my-8">
         </div>
       </section>
