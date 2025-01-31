@@ -10,9 +10,6 @@ const navItems = {
   'https://read.cv/shrk': {
     name: 'resume',
   },
-    'https://hackerone.com/a53xd': {
-    name: 'h1',
-  },
 }
 
 export function Navbar() {
