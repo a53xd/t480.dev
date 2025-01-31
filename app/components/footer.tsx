@@ -71,20 +71,6 @@ export default function Footer() {
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
-      <div>
-      <iframe>
-        src="https://john.citrons.xyz/embed?ref=t480.dev" 
-        style={{ 
-          marginLeft: 'auto', 
-          display: 'block', 
-          marginRight: 'auto', 
-          maxWidth: '732px', 
-          width: '100%', 
-          height: '94px', 
-          border: 'none' 
-        }} 
-      </iframe>
-      </div>
       </footer>
       )
       }
