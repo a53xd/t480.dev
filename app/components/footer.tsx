@@ -71,16 +71,7 @@ export default function Footer() {
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
-      <div className="spacing">
-        <main>
-          <a href="https://john.citrons.xyz" style="width:100%;height:100%">
-            <img src="static/img/facts.png" alt="johnvertisement" />
-          </a>
-          <div id="badge">
-            <a href="https://john.citrons.xyz" style="color:#F0DBFF">john</a>
-          </div>
-        </main>
-      </div>
+
       </footer>
       )
       }
