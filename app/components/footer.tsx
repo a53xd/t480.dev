@@ -53,6 +53,7 @@ export default function Footer() {
           </a>
         </li>
       </ul>
+      <iframe src="https://john.citrons.xyz/embed?ref=t480.dev" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
