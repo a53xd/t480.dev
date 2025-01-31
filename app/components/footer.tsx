@@ -64,9 +64,10 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p>
-        <img src="/static/blahaj.png" style="height:1em;" alt="Blåhaj certified" /> certified Good Website by blåhaj
-      </p>
+      <div>
+      <img src="/static/blahaj.png" style={{ height: '1em' }} alt="Blåhaj certified" /> 
+      <span>certified Good Website by Blåhaj</span>
+    </div>
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
