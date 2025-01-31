@@ -53,7 +53,9 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <iframe 
+      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
+        © {new Date().getFullYear()} MIT Licensed
+        <iframe 
   src="https://john.citrons.xyz/embed?ref=t480.dev" 
   style={{
     marginLeft: 'auto',
@@ -61,12 +63,10 @@ export default function Footer() {
     marginRight: 'auto',
     maxWidth: '732px',
     width: '100%',
-    height: '94px',
+    height: '90px',
     border: 'none'
   }}
 ></iframe>
-      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
-        © {new Date().getFullYear()} MIT Licensed
       </p>
     </footer>
   )
