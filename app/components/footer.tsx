@@ -55,6 +55,7 @@ export default function Footer() {
       </ul>
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
+        </p>
         <iframe 
   src="https://john.citrons.xyz/embed?ref=t480.dev" 
   style={{
@@ -67,7 +68,6 @@ export default function Footer() {
     border: 'none'
   }}
 ></iframe>
-      </p>
     </footer>
   )
 }
